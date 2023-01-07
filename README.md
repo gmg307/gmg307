@@ -7,7 +7,7 @@ Bachelor in Marketing | Developer apprentice | IT Enthusiast
 
 You can find me 🌎:
 
-[Linkedin] (https://www.linkedin.com/in/gustavomgiordano)
+- [Linkedin] (https://www.linkedin.com/in/gustavomgiordano)
 - [Github]
 - [Resume]
 
