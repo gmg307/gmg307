@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 You can find me 🌎:
 
 - [Linkedin](https://www.linkedin.com/in/gustavomgiordano)
-- [Github]
+- [Github](https://github.com/gustavomgiordano/gustavomgiordano)
 - [Resume]
