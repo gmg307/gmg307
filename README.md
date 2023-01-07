@@ -5,11 +5,7 @@ Bachelor in Marketing | Developer apprentice | IT Enthusiast
 <!--
 **gmg307/gmg307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-You can find me 🌎:
 
-- [Linkedin](https://www.linkedin.com/in/gustavomgiordano)
-- [Github]
-- [Resume]
 
 Here are some ideas to get you started:
 
@@ -22,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You can find me 🌎:
+
+- [Linkedin](https://www.linkedin.com/in/gustavomgiordano)
+- [Github]
+- [Resume]
